@@ -1,5 +1,5 @@
 {
-  "name": "HBWABot Mizo",
+  "name": "Mr Bot",
   "version": "5.6.0",
   "description": "Automated whatsapp bot hi nodejs and baileys lib hmanga siam a ni",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "whatsapp",
     "2024"
   ],
-  "author": "HBMods",
+  "author": "MrBot",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
