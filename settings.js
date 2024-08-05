@@ -12,33 +12,33 @@ global.autoread = true // true a i dah chuan message zawng zawng read vek zelin 
 global.autoread_status = true // true a i dah chuan auto status view in a awm ang
 
 //info
-global.owner = ['918416093656'] // I phone number in thlak rawh
-global.ownernumber = '918416093656' // I phone number in thlak rawh
-global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
-global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "HBWABot Mizo" // I bot hming tur dah la
-global.ownerweb = "https://youtube.com/@HBMods_Channel"
+global.owner = ['918787651195'] // I phone number in thlak rawh
+global.ownernumber = '918787651195' // I phone number in thlak rawh
+global.ownername = "Awmtea Polythene" // I hming dah tel bawk la
+global.location = "India, Mizoram, Serchhip" // I awmna hmun daha
+global.botname = "Flex" // I bot hming tur dah la
+global.ownerweb = "https://youtube.com/@awmtea-polythene"
 global.themeemoji = '🤖'
-global.creator = "918416093656@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.creator = "918787651195@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["918416093656@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.ownerNumber = ["918787651195@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefixc = ['/'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
 // Sticker Pack Name
 global.packname = "Sticker By"
-global.author = "HBWABot"
+global.author = "Flex"
 
 //BUTTON INPUT 
 global.buttonyt = "SUBSCRIBE"
-global.buttonyturl = "https://youtube.com/@HBMods_Channel"
+global.buttonyturl = "https://youtube.com/@awmtea-polythene"
 global.buttonig = "Follow Us:)"
-global.buttonigurl = "https://www.instagram.com/herbert_suantak2"
+global.buttonigurl = "https://www.instagram.com/awmtea._.polythene"
 //_______________________________________________
-global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+global.defaultpp = 'https://telegra.ph/file/b314b8aa729e7b16f2090.jpg'
 //messages
 global.mess = {
-    success: '\n*©HBWABot*!', 
+    success: '\n*©Flex*!', 
     admin: 'He features hi chu admin-te chauh hman thei tur a siam a ni!',
     botAdmin: 'Admin-ah min dah hmasa phawt la chuan ka ti thei ang!',
     owner: 'He features hi a neitu chauh hman thei tura siam a ni!',
