@@ -31,9 +31,9 @@ global.author = "᭄hazel"
 
 //BUTTON INPUT 
 global.buttonyt = "SUBSCRIBE"
-global.buttonyturl = "https://youtube.com/@HBMods_Channel"
+global.buttonyturl = "https://youtube.com/@awmtea-polythene"
 global.buttonig = "Follow Us:)"
-global.buttonigurl = "https://www.instagram.com/herbert_suantak2"
+global.buttonigurl = "https://www.instagram.com/ign_hazel_"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 //messages
