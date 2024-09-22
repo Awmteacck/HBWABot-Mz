@@ -22,7 +22,7 @@ global.themeemoji = '🤖'
 global.creator = "916009920750@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
 global.ownerNumber = ["916009920750@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
-global.prefixc = [' '] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
+global.prefixc = [''] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
 // Sticker Pack Name
@@ -38,7 +38,7 @@ global.buttonigurl = "https://www.instagram.com/ign_hazel_"
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 //messages
 global.mess = {
-    success: '\n*©*!', 
+    success: '\n*©Hazel*!', 
     admin: 'He features hi chu admin-te chauh hman thei tur a siam a ni!',
     botAdmin: 'Admin-ah min dah hmasa phawt la chuan ka ti thei ang!',
     owner: 'He features hi a neitu chauh hman thei tura siam a ni!',
