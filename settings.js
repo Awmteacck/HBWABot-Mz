@@ -11,6 +11,13 @@ global.public = true // false ah i dah chuan nang chauhin i hmang thei ang
 global.autoread = false // true a i dah chuan message zawng zawng read vek zelin a awm ang 
 global.autoread_status = false // true a i dah chuan auto status view in a awm ang
 
+// SET UP LANGUAGE >>>>>>
+global.default_language = true // If you don't want to use the default language, set it to false
+global.mtl_language = false // set to true if you want to using multi language
+global.bot_language = 'lus' // support language [English, Mizo, Indonesia, Russian, Hindi, Germany, Brazilian ] Please put the language code only 
+//______>>>>>>>>>>>>>
+
+
 //info
 global.owner = ['916009920750'] // I phone number in thlak rawh
 global.ownernumber = '916009920750' // I phone number in thlak rawh
